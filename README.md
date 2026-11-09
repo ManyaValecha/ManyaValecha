@@ -116,7 +116,6 @@ I love transforming curious ideas into meaningful technology. My interests lie a
 - 🏅 **Microsoft Azure × Reskill:** AlertShe secured Top 3 among 500+ participants.
 - 🥇 **Local Dawn Hackathon 2025:** EduWeb won First Place and the Impact & Innovation recognition.
 - 🌟 **NexFellow Fellowship:** Selected among the Top 100 students nationally.
-- 🔬 **Research:** Manuscript on IoT-enabled digital phenotyping for early Alzheimer's diagnosis submitted to IJPCC and under review.
 - 🌍 **WOMENCONF:** Research abstract on digital feminism accepted for presentation at the 8th Global Conference on Women's Studies, Oxford.
 
 ---

@@ -122,17 +122,14 @@ I love transforming curious ideas into meaningful technology. My interests lie a
 
 ## 📊 GitHub at a glance
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ManyaValecha&show_icons=true&hide_border=true&bg_color=0d0618&title_color=c084fc&icon_color=bb86fc&text_color=e9d5ff&rank_icon=github" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManyaValecha&layout=compact&hide_border=true&bg_color=0d0618&title_color=c084fc&text_color=e9d5ff" alt="Most used languages"/>
-</p>
 
 <p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=ManyaValecha&theme=midnight-purple&hide_border=true&background=0D0618&ring=C084FC&fire=BB86FC&currStreakLabel=E9D5FF" alt="GitHub contribution streak"/>
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManyaValecha&bg_color=0d0618&color=e9d5ff&line=9b72cf&point=c084fc&area=true&hide_border=true" alt="Contribution activity graph"/>
+  <img height="165"
+    src="https://github-readme-stats-vercel.zcy.dev/api?username=ManyaValecha&show_icons=true&theme=midnight-purple&hide_border=true"
+    alt="GitHub statistics"/>
+  <img height="165"
+    src="https://github-readme-stats-vercel.zcy.dev/api/top-langs/?username=ManyaValecha&layout=compact&theme=midnight-purple&hide_border=true"
+    alt="Most used languages"/>
 </p>
 
 ---

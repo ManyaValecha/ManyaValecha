@@ -120,7 +120,8 @@ I enjoy turning ambitious ideas into meaningful technology. My interests lie at 
 </table>
 
 ---
-![Uploading Screenshot 2026-11-13 at 4.16.09 PM.png…]()
+
+<img width="558" height="535" alt="Screenshot 2026-11-13 at 4 16 09 PM" src="https://github.com/user-attachments/assets/7278d7d7-439b-4b3c-acfb-306e57c1791c" />
 
 
 

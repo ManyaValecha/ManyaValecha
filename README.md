@@ -120,6 +120,9 @@ I enjoy turning ambitious ideas into meaningful technology. My interests lie at 
 </table>
 
 ---
+![Uploading Screenshot 2026-11-13 at 4.16.09 PM.png…]()
+
+
 
 ## 🏆 ACHIEVEMENTS & RECOGNITION
 
